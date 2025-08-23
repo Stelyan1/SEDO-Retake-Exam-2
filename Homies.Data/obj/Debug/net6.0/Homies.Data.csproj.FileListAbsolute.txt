@@ -1,0 +1,15 @@
+E:\DevOps Exam\SEDO-Retake-Exam-2\Homies.Data\bin\Debug\net6.0\Homies.Data.deps.json
+E:\DevOps Exam\SEDO-Retake-Exam-2\Homies.Data\bin\Debug\net6.0\Homies.Data.runtimeconfig.json
+E:\DevOps Exam\SEDO-Retake-Exam-2\Homies.Data\bin\Debug\net6.0\Homies.Data.dll
+E:\DevOps Exam\SEDO-Retake-Exam-2\Homies.Data\bin\Debug\net6.0\Homies.Data.pdb
+E:\DevOps Exam\SEDO-Retake-Exam-2\Homies.Data\obj\Debug\net6.0\Homies.Data.csproj.AssemblyReference.cache
+E:\DevOps Exam\SEDO-Retake-Exam-2\Homies.Data\obj\Debug\net6.0\Homies.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevOps Exam\SEDO-Retake-Exam-2\Homies.Data\obj\Debug\net6.0\Homies.Data.AssemblyInfoInputs.cache
+E:\DevOps Exam\SEDO-Retake-Exam-2\Homies.Data\obj\Debug\net6.0\Homies.Data.AssemblyInfo.cs
+E:\DevOps Exam\SEDO-Retake-Exam-2\Homies.Data\obj\Debug\net6.0\Homies.Data.csproj.CoreCompileInputs.cache
+E:\DevOps Exam\SEDO-Retake-Exam-2\Homies.Data\obj\Debug\net6.0\Homies.Data.sourcelink.json
+E:\DevOps Exam\SEDO-Retake-Exam-2\Homies.Data\obj\Debug\net6.0\Homies.Data.dll
+E:\DevOps Exam\SEDO-Retake-Exam-2\Homies.Data\obj\Debug\net6.0\refint\Homies.Data.dll
+E:\DevOps Exam\SEDO-Retake-Exam-2\Homies.Data\obj\Debug\net6.0\Homies.Data.pdb
+E:\DevOps Exam\SEDO-Retake-Exam-2\Homies.Data\obj\Debug\net6.0\Homies.Data.genruntimeconfig.cache
+E:\DevOps Exam\SEDO-Retake-Exam-2\Homies.Data\obj\Debug\net6.0\ref\Homies.Data.dll
