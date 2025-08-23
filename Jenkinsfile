@@ -4,7 +4,8 @@ pipeline {
     triggers {
         pollSCM('H/5 * * * *')
     }
-
+    
+    // Define environment variables
     stages {
         stage('Checkout') {
             steps {
