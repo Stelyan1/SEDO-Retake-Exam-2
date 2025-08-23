@@ -1,0 +1,36 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - develop
+      - 'feature/**'
+  workflow_dispatch:   
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout на кода
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Настройка на Node.js (пример – ако е друг език, сменя се)
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      # 3. Инсталиране на зависимости
+      - name: Install dependencies
+        run: npm install
+
+      # 4. Build на проекта
+      - name: Build project
+        run: npm run build
+
+      # 5. Стартиране на тестове
+      - name: Run tests
+        run: npm test
